@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Auth-JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
 </p>
 
 ---
@@ -19,40 +18,24 @@ I specialize in developing secure RESTful APIs, implementing authentication syst
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### 💻 Frontend Development
-- React.js  
-- Vite  
-- Tailwind CSS  
-- Bootstrap  
-- HTML5  
-- CSS3  
-- CSS Modules  
-- Responsive Design  
-- React Router  
-- React Hooks (useState, useEffect, useContext)  
-- Zustand (State Management)  
+<p align="center">
 
-### 🖥️ Backend Development
-- Node.js  
-- Express.js  
-- RESTful APIs  
-- Middleware & Routing  
-- JWT Authentication  
-- Bcrypt Password Hashing  
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,html,css,js" />
 
-### 🗄️ Database
-- MongoDB  
-- Mongoose ODM  
+<br/>
 
-### 🔧 Tools & Technologies
-- Git & GitHub  
-- Axios  
-- ESLint  
-- Firebase  
-- GSAP  
-- Framer Motion  
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+
+<br/>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</p>
 
 ---
 
