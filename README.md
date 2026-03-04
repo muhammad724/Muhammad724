@@ -116,17 +116,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-maviya&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-maviya&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
